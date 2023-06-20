@@ -1,0 +1,4 @@
+{
+    "bs":{"_type":"choice","_value":[16, 32]},
+    "epoch":{"_type":"choice","_value":[100, 200]}
+}
